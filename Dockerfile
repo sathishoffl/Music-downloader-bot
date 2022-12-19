@@ -1,3 +1,4 @@
+FROM sathishsk/cleanws:latest
 FROM sathishsk/slamoffl:latest
 
 WORKDIR /usr/src/app
