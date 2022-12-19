@@ -1,4 +1,4 @@
-FROM sathishsk/music:latest
+FROM sathishsk/wzml:latest
 
 RUN apt-get -y update 
 RUN apt-get install -y ffmpeg 
