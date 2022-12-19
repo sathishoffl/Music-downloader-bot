@@ -1,5 +1,7 @@
 youtube-dl
 mutagen
-requests
+ffmpeg
 python-telegram-bot
-
+requests
+updates
+ffprobe
